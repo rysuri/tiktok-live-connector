@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-connector",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1",
+    "tiktok-live-connector": "^0.9.20"
+  }
+}
